@@ -1,0 +1,6 @@
+{
+  "name": "CleanPing",
+  "description": "The Missed Call Text Back Fix for cleaning companies in the United States.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
